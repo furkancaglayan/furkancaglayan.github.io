@@ -176,7 +176,7 @@ a:hover, a:focus, a:active {
 }
 
 
-.button.btn
+.button.btn.btn-primary.btn-lg
  {
   background-color: #4CAF50; /* Green */
   border: none;
