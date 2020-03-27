@@ -23,13 +23,13 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto Light', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
   font-weight: 700;
   text-transform: lowercase;
   color: #343a40;
 }
 
 h1 {
+  font-family: 'Roboto Light', Roboto, 'Helvetica Neue', serif;
   font-size: 6rem;
   line-height: 5.5rem;
 }
